@@ -95,8 +95,6 @@
                     </allureDownloadUrl>
                 </configuration>
             </plugin>
-            
-            
             <!-- Maven plugin to use perticular java version to compile code -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
