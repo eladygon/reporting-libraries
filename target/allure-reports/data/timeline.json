@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LCE27523",
+    "children" : [ {
+      "name" : "18740@LCE27523.main(1)",
+      "children" : [ {
+        "name" : "Check algorithm of income tax salary",
+        "uid" : "ea8c9f90ce5406f0",
+        "parentUid" : "125760597943da026c2dd3ac1a332de5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592295772409,
+          "stop" : 1592295772411,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check income tax for employee",
+        "uid" : "9ea42d7b3f0f95f",
+        "parentUid" : "125760597943da026c2dd3ac1a332de5",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1592295772389,
+          "stop" : 1592295772398,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check algorithm of brutto/netto salary",
+        "uid" : "16d2381b225aba2b",
+        "parentUid" : "125760597943da026c2dd3ac1a332de5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592295771898,
+          "stop" : 1592295771951,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "125760597943da026c2dd3ac1a332de5"
+    } ],
+    "uid" : "61db6395c2b8132185ca4e7b388dbf4e"
+  } ]
+}

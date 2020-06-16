@@ -1,0 +1,48 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "salary.SalaryTest",
+    "children" : [ {
+      "name" : "Check algorithm of brutto/netto salary",
+      "uid" : "16d2381b225aba2b",
+      "parentUid" : "906a18631ff4dbc2b8e5e12a3b424b1f",
+      "status" : "broken",
+      "time" : {
+        "start" : 1592295771898,
+        "stop" : 1592295771951,
+        "duration" : 53
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check income tax for employee",
+      "uid" : "9ea42d7b3f0f95f",
+      "parentUid" : "906a18631ff4dbc2b8e5e12a3b424b1f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1592295772389,
+        "stop" : 1592295772398,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check algorithm of income tax salary",
+      "uid" : "ea8c9f90ce5406f0",
+      "parentUid" : "906a18631ff4dbc2b8e5e12a3b424b1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592295772409,
+        "stop" : 1592295772411,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "906a18631ff4dbc2b8e5e12a3b424b1f"
+  } ]
+}

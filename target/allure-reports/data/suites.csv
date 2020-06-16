@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue Jun 16 10:22:51 CEST 2020","Tue Jun 16 10:22:51 CEST 2020","53","","salary.SalaryTest","","salary.SalaryTest","checkAlgorithmBruttonNetto","Check algorithm of brutto/netto salary",""
+"passed","Tue Jun 16 10:22:52 CEST 2020","Tue Jun 16 10:22:52 CEST 2020","2","","salary.SalaryTest","","salary.SalaryTest","checkAlgorithmTax","Check algorithm of income tax salary",""
+"skipped","Tue Jun 16 10:22:52 CEST 2020","Tue Jun 16 10:22:52 CEST 2020","9","","salary.SalaryTest","","salary.SalaryTest","checkTaxForEmployee","Check income tax for employee",""

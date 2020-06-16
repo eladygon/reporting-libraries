@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "salary.SalaryTest",
+    "children" : [ {
+      "name" : "checkAlgorithmBruttonNetto",
+      "uid" : "16d2381b225aba2b",
+      "parentUid" : "583761d509ddd371ba33d9f98bd0cec0",
+      "status" : "broken",
+      "time" : {
+        "start" : 1592295771898,
+        "stop" : 1592295771951,
+        "duration" : 53
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkTaxForEmployee",
+      "uid" : "9ea42d7b3f0f95f",
+      "parentUid" : "583761d509ddd371ba33d9f98bd0cec0",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1592295772389,
+        "stop" : 1592295772398,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkAlgorithmTax",
+      "uid" : "ea8c9f90ce5406f0",
+      "parentUid" : "583761d509ddd371ba33d9f98bd0cec0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592295772409,
+        "stop" : 1592295772411,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "salary.SalaryTest"
+  } ]
+}

@@ -1,0 +1,5 @@
+framework\AllureLoger.class
+dataStorage\DataStorage.class
+dataStorage\Person.class
+dataStorage\DataStorage$1.class
+dataStorage\Salary.class

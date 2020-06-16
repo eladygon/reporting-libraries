@@ -1,0 +1,4 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"Salary - check data","Check algorithm","Check brutto/netto salary algorithm","0","1","0","0","0"
+"Salary - check data","Check algorithm","Check income tax algorithm","0","0","1","0","0"
+"Salary - check data","Check salary for employee","Check income tax for employee","0","0","0","1","0"

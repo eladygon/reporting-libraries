@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: salary.SalaryTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 1, Time elapsed: 1.628 s <<< FAILURE! - in salary.SalaryTest
+salary.SalaryTest.checkAlgorithmBruttonNetto  Time elapsed: 0.43 s  <<< ERROR!
+java.io.FileNotFoundException: filename.txt (The system cannot find the file specified)
+	at salary.SalaryTest.checkAlgorithmBruttonNetto(SalaryTest.java:43)
+
