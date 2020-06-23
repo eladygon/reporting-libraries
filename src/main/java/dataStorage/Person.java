@@ -8,7 +8,7 @@ import lombok.Setter;
 @Setter
 
 public class Person {
-	private int id;
+private int id;
 private	String firstName;
 private	String lastName;
 private int age;

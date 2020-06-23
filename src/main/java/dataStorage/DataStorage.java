@@ -1,9 +1,12 @@
 package dataStorage;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public  class DataStorage {
 public static String[] dataInputCity = {"Wroclaw","Poznan","Krakow","Warszawa","Gdansk"};
+//list of person in company
 public static  List<Person> listOfPerson = new ArrayList<Person>(){{
 			
 			  add(new Person(1,"Zofia","Nowak",11,"Test developer","Wroclaw",'f'));
@@ -16,6 +19,21 @@ public static  List<Person> listOfPerson = new ArrayList<Person>(){{
 			  add(new Person(8,"Karolina","Jezyna",21,"Junior test developer","Poznan",'f'));
 			
 }};
+
+//salary brutto
+public static Map<Integer, Double>listOfEarninigs =  new HashMap<Integer, Double>() {{
+	
+	put(1,4500.00);
+	put(1,5500.00);
+	put(1,6500.00);
+	put(1,7500.00);
+	put(1,8500.00);
+	put(1,9500.00);
+	put(1,10500.00);
+	put(1,11500.00);
+	
+}};
+
 
 
 
